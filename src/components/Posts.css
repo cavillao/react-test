@@ -1,0 +1,103 @@
+body {
+  background-color: rgb(197, 234, 250);
+}
+.posts-container {
+  width: 700px;
+  margin: auto;
+  padding-top: 15px;
+  border-top: 3px solid black;
+}
+.posts-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+.posts-container ul li {
+  margin-bottom: 20px;
+  border: 2px solid #000000;
+  padding: 20px;
+  border-radius: 25px;
+}
+.posts-container ul li pre {
+  text-align: justify;
+  font-family: "Pathway Extreme", sans-serif;
+  font-weight: 200;
+  font-size: large;
+}
+.posts-container ul li h2 {
+  text-align: center;
+  margin-top: 0;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+}
+.action-buttons-container {
+  text-align: end;
+}
+.action-buttons-container button {
+  margin-left: 10px;
+}
+.new-publication-container {
+  text-align: center;
+  margin-bottom: 30px;
+  border: none;
+}
+.new-publication-container p {
+  margin: 0;
+}
+.page-title {
+  text-align: center;
+}
+.new-publication-button {
+  text-align: center;
+}
+.new-publication-button-container {
+  width: 700px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+.new-publication-button {
+  width: 70%;
+  padding: 8px 0;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 2px solid #000000;
+}
+.new-publication-button:hover {
+  background-color: #000000;
+  color: #ffffff;
+  cursor: pointer;
+}
+.new-publication-title p {
+  margin-bottom: 10px;
+}
+.new-publication-title input:focus-visible {
+  outline: none;
+}
+.new-publication-body p {
+  margin-bottom: 10px;
+}
+.new-publication-title {
+  margin-bottom: 15px;
+}
+.new-publication-title input {
+  width: 550px;
+  height: 25px;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid;
+  background-color: inherit;
+}
+.new-publication-body textarea {
+  width: 550px;
+  height: 150px;
+  border-radius: 10px;
+  resize: none;
+  background-color: inherit;
+  padding: 10px;
+  border: 2px solid;
+}
+.new-publication-body textarea:focus-visible {
+  outline: none;
+}

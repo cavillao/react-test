@@ -1,0 +1,69 @@
+.modal {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  z-index: 2;
+  background-color: rgba(197, 234, 250);
+}
+.modal-content {
+  text-align: center;
+  position: absolute;
+  width: 700px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+.modal-content > div > p {
+  margin: 0;
+}
+.content-container {
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-radius: 25px;
+}
+.content-container p {
+  margin: 0;
+}
+.editor-title {
+  margin: 0;
+  margin-bottom: 15px;
+}
+.title-container p {
+  margin-bottom: 10px;
+}
+.title-container input {
+  width: 550px;
+  height: 25px;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 2px solid;
+  background-color: inherit;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+}
+.body-container {
+  margin-top: 15px;
+}
+.body-container p {
+  margin-bottom: 10px;
+}
+.body-container textarea {
+  width: 550px;
+  height: 150px;
+  border-radius: 10px;
+  resize: none;
+  background-color: inherit;
+  padding: 10px;
+  border: 2px solid;
+  font-family: "Pathway Extreme", sans-serif;
+  font-weight: 200;
+  font-size: large;
+}
+.save-button {
+  margin-top: 5px;
+}
