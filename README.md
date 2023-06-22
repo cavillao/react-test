@@ -2,8 +2,8 @@
 
 ## Instalación
 
-Para correr el proyecto, clona el proyecto directamente en la rama ###master, abre la consola y encuentra la carpeta clonada.\
-Después de esto solo debes correr el comando ### `npm start`
+Para correr el proyecto, clona el proyecto directamente en la rama ###`master`, abre la consola y encuentra la carpeta clonada.\
+Después de esto solo debes correr el comando ###`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
