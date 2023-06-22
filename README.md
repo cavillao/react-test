@@ -19,8 +19,7 @@ incluyendo los iniciales como los finales.
 
 ## Código del proyecto.
 
-El proyecto fue hecho en ReactJS, usando la librería de Axios para consumir la API, Material Icons de Material UI para varios de los botones usados en la app\
-y distintos hooks nativos de Reacts.
+El proyecto fue hecho en ReactJS, usando la librería de Axios para consumir la API, Material Icons de Material UI para varios de los botones usados en la app y distintos hooks nativos de Reacts.
 
 Los componentes añadidos están en la carpeta `components`, son 2 componentes, el componente `Editor` que se despliega al editar los posts y el componente\
 `Posts` que es el componente principal que renderiza los posts y una sección nueva para añadir los posts, adicional el título y el botón para desplegar la sección
