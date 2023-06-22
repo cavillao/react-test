@@ -10,8 +10,10 @@ Después de esto solo debes correr el comando `npm start`.
 
 Este proyecto despliega una lista de posts consumidos desde una API de testeo, la idea era mantener una lista de todos los posts\
 por ende, es un scroll de todos los 100 posts que inicialmente se obtienen, la single page application permite así añadir más posts.\
+
 Estos post se pueden añadir clickeando el botón `Publica Aquí`, este desplegará una sección que te permite añadir el título y el cuerpo\
 del post, al guardar, este nuevo post se verá agregado en la página inmediatamente.\
+
 Adicional a esto, puedes editar y borrrar posts dando click a los íconos correspondientes, puedes editar o borrar cualquier post\
 incluyendo los iniciales como los finales.\
 
