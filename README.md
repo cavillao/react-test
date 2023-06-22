@@ -3,6 +3,7 @@
 ## Instalación
 
 Para correr el proyecto, clona el proyecto directamente en la rama `master`, abre la consola y encuentra la carpeta clonada.\
+\
 Después de esto solo debes correr el comando `npm start`.
 
 ## Explicación del proyecto
